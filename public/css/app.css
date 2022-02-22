@@ -51,6 +51,20 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+#footer{
+  background: black;
+  color: white;
+  }
+  
+  #footer a, #footerDivider a, #footerDivider p{
+      color: white;
+      text-decoration: none;
+  }
+  
+  #footerDivider{
+      background: #283747;
+  }
+
 article,
 aside,
 figcaption,
