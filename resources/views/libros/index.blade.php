@@ -39,6 +39,7 @@
     </table>
 
     <a href="{{url('/libros/create')}}" class="btn btn-primary">Agregar</a>
+    <a href="{{url('/home')}}" class="btn btn-danger">Regresar</a>
 </div>
 
 @endsection
